@@ -1,0 +1,16 @@
+I skipped the first question
+
+Second questions: Why do you think some version control systems, like 
+Git, allow saving multiple files in one commit, while others, like 
+Google Docs, treat each file seperately?
+
+I would assume most people don't use Google Docs for collections of 
+files or coding. Most people would like to edit one file at a time, that 
+is unrelated to any other file.
+
+-- How can you use the commands git log and git diff to view the history 
+of files?
+
+Run git log to get a list of commits, then git diff on the ids of two 
+particular commits to see the changes.
+
