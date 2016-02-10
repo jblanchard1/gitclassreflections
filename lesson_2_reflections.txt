@@ -14,3 +14,10 @@ repository? What value do you think it offers?
 The opportunity to change your mind. Staging area is either a reference 
 to the document at the current point or a copy of the document at the 
 current point.
+
+
+--How can you use the staging area to make sure you have one commit per 
+logical change?
+
+You can run git diff --staged after adding everything to the staging 
+area to see what the commit changes from the most recent commit.
