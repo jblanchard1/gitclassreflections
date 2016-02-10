@@ -1,0 +1,16 @@
+
+Reflections on lesson 2 of the Git course
+
+--What happens when you initialize a repository? Why do you need to do it?
+
+When you initialize a repository, it adds the hidden ".git" file which 
+will be used to track commits. It doesn't create a commit, though. You 
+have to do that yourself.
+
+
+--How is the staging area different from the working directory and the 
+repository? What value do you think it offers?
+
+The opportunity to change your mind. Staging area is either a reference 
+to the document at the current point or a copy of the document at the 
+current point.
