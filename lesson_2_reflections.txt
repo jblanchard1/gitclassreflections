@@ -21,3 +21,10 @@ logical change?
 
 You can run git diff --staged after adding everything to the staging 
 area to see what the commit changes from the most recent commit.
+
+--What are some situations when branches would be helpful in keeping 
+your history organized? How would branches help?
+
+Branches can help you if you want to create another version of your 
+program without changing the main version. It would let you switch 
+between versions without worrying about messing up the other one.
